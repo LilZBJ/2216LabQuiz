@@ -1,0 +1,14 @@
+{
+    "name": "lilzbj/php-test",
+    "description": "some php stuff",
+    "type": "project",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    }
+}
